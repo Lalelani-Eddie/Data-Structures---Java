@@ -1,0 +1,117 @@
+black carp	Black carp have huge molars for crushing the shells of the snails and mussels that it likes to eat.	0.7175303101539612
+foster child	A foster child is a child	1.0
+penile cancer	Penile cancer is rare in circumcised men.	0.7558000087738037
+plowshare	Plowshares are wedges.	1.0
+barrier contraceptive	Barrier contraceptives are devices that provide a mechanical barrier between the sperm and the egg.	0.8016020059585571
+effective metal	Effective metals are chromium, nickel, and titanium.	0.7007809281349182
+oxidative bleach	Oxidative bleaches act by breaking down the coloured compounds into smaller, colourless compounds.	0.8313314318656921
+phantom	Phantom isa belief.	1.0
+excitation	Excitation is arousal	1.0
+polychaete	Polychaetes also differ from other annelids in that they have antennae and specialized mouth parts.	0.7883846163749695
+sodium hydroxide	Sodium hydroxide is corrosive to flesh and can cause blindness.	0.8265093564987183
+phlox	Phloxs are plants.	1.0
+hydrogenous sediment	Hydrogenous sediments form slowly by chemical reactions on the ocean floor.	0.7320758104324341
+policeman	Policemen have (part) human bodies.	1.0
+male spermatogenesis	Male spermatogenesises occur in seminiferous tubules.	1.0
+behavioral adaptation	Behavioral adaptations allow an animal to respond relatively quickly to environmental challenge.	0.7049928307533264
+dihydric alcohol	Dihydric alcohol is alcohol	1.0
+wearer	Wearers have (part) cells.	1.0
+mild hypertension	Mild hypertension is associated with increased risk of heart attacks, strokes and so forth.	0.7111650109291077
+molecular marker	Molecular markers are small DNA fragments located on chromosomes.	0.8176530003547668
+agua	Aguas have (part) rib cages.	1.0
+organic contaminant	Organic contaminants have chains of carbon atoms as their basic building blocks.	0.7792950868606567
+deep breathing	Deep breathing helps to release cramps since it increases oxygen availability.	0.7144309282302856
+patent law	Patent laws are jurisprudence.	1.0
+ocular injection	Ocular injections mean inserting a needle directly into the eye.	0.7509974837303162
+eye bank	An eye bank is a bank	1.0
+Cattle	Cattle are farm animals with thick skin and hoofed feet.	0.7508091926574707
+gondola	Gondolas carry tourists.	1.0
+asperity	An asperity is a disposition	1.0
+criminal court	A criminal court is a court	1.0
+cleg	A cleg is a gadfly	1.0
+model approach	Model approaches examine effects.	1.0
+real property	Real properties are properties.	1.0
+acrylic painting	Acrylic paintings is paintings.	1.0
+predicate	Predicates are relationships.	1.0
+zooid	Zooids alternate biserially on branches, with individual zooids tapering proximally.	0.7144142389297485
+gross anatomy	A gross anatomy is an anatomy	1.0
+watchman	Watchmans are guards.	1.0
+diaphragmatic pleura	Diaphragmatic pleura covers the superior surface of the pleuroperitoneal folds.	0.8092774152755737
+pink flower	Pink flowers grow in many places.	1.0
+chino	Chinos are fabric.	1.0
+assimilation	Assimilation is a social process	1.0
+scalar coupling	Scalar coupling leads to a transfer of magnetization between nuclei.	0.7033928036689758
+carbonara	A carbonara is a pasta sauce	1.0
+entrapment neuropathy	Entrapment neuropathy includes compression of a nerve where it passes through a narrow space.	0.8091138005256653
+tough guy	A tough guy is a rowdy	1.0
+superhighway	Superhighways have (part) traffic lanes.	1.0
+laurel wreath	A laurel wreath is a wreath	1.0
+cassia	Cassias are fast growing plants.	0.7749528884887695
+unique approach	Unique approaches use techniques.	1.0
+soul	Soul denotes the breath of life of the body.	0.718323290348053
+elevate blood pressure	Elevate blood pressure stimulates secretion.	1.0
+different molecule	Different molecules absorb different colors of light, depending on their electronic structure.	0.7221203446388245
+mountain peak	Mountain peaks are part of mountains.	1.0
+plectrum	A plectrum is a device	1.0
+capillary wave	Capillary waves are small waves with periods of less than one-tenth of a second.	0.7531203031539917
+soil bacteria	Soil bacteria convert nitrogen gas to a usable form for plants.	0.7702853083610535
+shock wave	A shock wave is a wave	1.0
+personal life	Personal life has affects.	1.0
+rocket ship	Rocket ships carry machines.	1.0
+alert	Alerts are warning.	1.0
+firmament	A firmament is a surface	1.0
+dart	Dart isa projectile.	1.0
+photoactivated rhodopsin	Photoactivated rhodopsin stimulates a G protein, transducin.	0.7446567416191101
+marriage counseling	Marriage counseling is guidance.	1.0
+giant sunflower	A giant sunflower is a flower	1.0
+wearable	A wearable is a covering	1.0
+pata monkey	Pata monkeys occur in areas.	1.0
+unknown soldier	Unknown soldiers fire rifles.	1.0
+hydrolized collagen	Hydrolized collagen is a protein.	0.8366224765777588
+dehydrated food	Dehydrated food is located in backpacks.	1.0
+epithelial hyperplasia	Epithelial hyperplasia indicates a non-invasive proliferation of epithelial cells.	0.8247419595718384
+hydroxide ion	A hydroxide ion is an anion	1.0
+compassion	Compassion is located in hearts.	1.0
+gonadal hormone	Gonadal hormones are very important causes of osteoporosis.	0.734850287437439
+conservation issue	Conservation issues affect life.	1.0
+cataract disorder	Cataract disorders are where the lens of the eye becomes partly or completely obscure.	0.7894533276557922
+hamper	Hampers are baskets.	1.0
+veto	Veto is a vote	1.0
+baobab	Baobabs develop leaves.	1.0
+bronsted basis	Bronsted bases have the ability to accept electrons .	0.755503237247467
+teach assistant	Teach assistants have flexibility.	1.0
+tyrant	Tyrants are rulers.	1.0
+natural chlorine	Natural chlorine contains two isotopes.	0.8064365386962891
+fertiliser	Fertilisers are chemicals.	1.0
+welwitschia	A welwitschia is a gymnosperm	1.0
+guise	A guise is color	1.0
+tiara	A tiara is a clothing	1.0
+production cost	Production cost is cost.	1.0
+unilateral paralysis	Unilateral paralysis is disfunction	1.0
+giant covalent structure	Giant covalent structures contain atoms.	1.0
+Balsa tree	Balsa trees grow in the rain forests of Central America and South America.	0.717357873916626
+coup	Coups are success.	1.0
+famous writer	Famous writers write stories.	1.0
+overrun	An overrun is production	1.0
+video recording	A video recording is a recording	1.0
+green card	Green cards are positive identification.	1.0
+determinate plant	Determinate plants produce many short branches ending in flower clusters with a very brief harvest.	0.7072395086288452
+fillet	Fillets are the sides of fish cut lengthwise away from the backbone and are practically boneless.	0.7174370288848877
+pencil eraser	Pencil erasers are part of pencils.	1.0
+plainsman	A plainsman is an inhabitant	1.0
+scalp	Scalps are skin.	1.0
+extrinsic muscle	Extrinsic muscles originate on the axial skeleton and insert on a girdle or limb.	0.8199191093444824
+mandible	Mandibles are an insect's teeth.	0.8518894910812378
+add more fiber	Add more fiber helps constipation.	1.0
+jello	Jello isa matter.	1.0
+parathyroid hormone	Parathyroid hormones are made by parathyroid glands.	1.0
+fading	Fadings are bands.	1.0
+pitcher plant	Pitcher plants occur in areas with low nitrogen in the soil.	0.7808951735496521
+numeric value	Numeric values are quantities.	1.0
+clay	Clay has shapes.	1.0
+birdsong	Birdsong is animal communication	1.0
+parturition	Parturition is part of reproduction.	1.0
+masquerader	A masquerader is a participant	1.0
+bantam	Bantams are the small-sized chickens and lay small eggs.	0.7234615087509155
+car salesman	Car salesmans are salespersons.	1.0
+feed weevil	Feed weevils cause damage.	1.0

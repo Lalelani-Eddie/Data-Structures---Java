@@ -1,0 +1,36 @@
+OOP Design and Classes:
+Traditional Array-based Data Structures
+The `GenericsKbArrayApp` class implements a command-line interface for managing a knowledge
+base stored in an array structure. It prompts users with a menu to load data from files, add new
+statements, and search for items by term or by both term and sentence. User interactions are
+facilitated through a `Scanner` object, ensuring seamless input processing. The application employs
+exception handling to manage file-related errors, providing robustness during file loading
+operations. Methods such as `SearchGiven`, `SearchByTerm`, and `UpdateStatement` encapsulate
+functionality for searching and updating statements within the knowledge base array. With its
+concise design and error-handling capabilities, the `GenericsKbArrayApp` class offers a
+straightforward and efficient solution for knowledge base management through a command-line
+interface.
+
+Binary Search Tree- Data Structures
+The `BinarySearchTree` class embodies the principles of Object-Oriented Programming (OOP)
+through its design and functionality. Structured around a binary search tree data structure, it
+maintains a clear hierarchy of operations for managing and manipulating tree nodes. The class
+encapsulates the tree's logic within methods like `insert`, `updateData`, `search`, and various
+traversal methods, ensuring a modular and encapsulated approach to tree manipulation. Its inner
+static class, `Node`, encapsulates individual node properties, fostering encapsulation and
+organization. Through methods like `inorderTraversalList`, `inorderTraversalSearch`, and
+`inorderTraversalStatement`, it enables precise operations such as listing statements with specific
+terms, searching for terms and statements, and updating data within the tree. Additionally, the
+utilization of a functional interface, `Operation`, hints at extensibility for custom operations on tree
+nodes. In summary, the `BinarySearchTree` class showcases a robust OOP design, leveraging
+encapsulation, abstraction, modularity, and encapsulation to manage and manipulate binary search
+tree structures efficiently.
+
+The `GenericsKbBSTApp` class orchestrates a command-line interface for interacting with a binary
+search tree-based knowledge base. Through a menu-driven approach, users can load data from files,
+add new statements, and search for items by term or by both term and sentence. Utilizing a
+`Scanner` object for input handling, the application maintains a continuous loop until the user opts
+to exit. Error handling mechanisms are in place to manage exceptions, ensuring smooth operation
+even in the face of unexpected events like file not found errors. By encapsulating binary search tree
+operations within the application's main method and adhering to clean code practices, the class
+provides a streamlined and user-friendly experience for knowledge management tasks.
