@@ -1,15 +1,10 @@
-criminologist	Criminologists are workers.	1.0
-albatross	Albatrosses have (part) faces.	1.0
-isolated organ	Isolated organs are rich in endothelial cells, vascular smooth muscle and other types of cells.	0.7458134293556213
-posterior molar	Posterior molars erupt at the back of the row and slowly move forward.	0.7185370326042175
-distinct structure	Distinct structures serve functions.	1.0
-melatonin	Melatonin is produced by glands.	1.0
-packer	Packers have (part) arms.	1.0
-running	Running  car crashs.	1.0
-chatterbox	A chatterbox is a helleborine	1.0
-structural abnormality	Structural abnormalities involve changes in the structure of one or more chromosomes.	0.7944852709770203
-computer hardware	Computer hardware is devices.	1.0
-brain chemistry	Brain chemistry regulates sleep and different drugs affect sleep in different ways.	0.7017922401428223
-differentiator	A differentiator is a person	1.0
-phytoplasma infection	Phytoplasma infection causes proliferation of axillary shoots.	0.8194813132286072
-business management	Business management is the process of managing resources including time, money, and people.	0.7038193941116333
+5
+0 4 15
+1 0 14 2 7 3 23
+2 0 7
+3 1 23 4 16
+4 2 15 3 9
+2
+0 3
+3
+1 4 2
